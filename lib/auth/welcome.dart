@@ -63,7 +63,7 @@ class Welcome extends StatelessWidget {
                 MaterialButton(
                   height: 50,
                   minWidth: 250,
-                  elevation: 10,
+                  elevation: 10,  
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(18.0),
                   ),
